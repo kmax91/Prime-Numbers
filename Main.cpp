@@ -3,7 +3,7 @@
 #include <chrono>
 #include <math.h>
 
-#define END 100000000
+#define END 500000000
 //#define TECH1
 //#define TECH2
 //#define TECH3
